@@ -10,3 +10,5 @@ git commit -m 第一次上传文件
 
 git status 查看当前项目有哪些改动
 git log 查看之前提交的记录
+
+git push -u origin main
