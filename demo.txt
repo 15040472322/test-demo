@@ -1,0 +1,12 @@
+这个是测试文件
+
+.gitignore   ---  忽略上传的文件
+
+
+打开终端
+git init   初始化git仓库
+git add .  
+git commit -m 第一次上传文件 
+
+git status 查看当前项目有哪些改动
+git log 查看之前提交的记录
