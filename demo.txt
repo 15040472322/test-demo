@@ -16,3 +16,7 @@ git push -u origin main
 git diff
     --此命令比较的是工作目录中当前文件和暂存区域快照之间的差异。
       (也就是修改之后还没有暂存起来的变化内容)
+
+
+token
+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
